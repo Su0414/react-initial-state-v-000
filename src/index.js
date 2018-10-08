@@ -6,4 +6,3 @@ ReactDOM.render(
   <div><ToggleButton /></div>,
   document.getElementById('root')
 );
-
